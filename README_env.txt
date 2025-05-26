@@ -1,0 +1,3 @@
+# .env ファイルに以下を記述してRenderに環境変数で設定してください
+# BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
+# INACTIVITY_THRESHOLD=259200
